@@ -1,0 +1,9 @@
+{
+	"name": "destudydatafactory",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "258a8f97-a390-422b-8307-c4c99677a774",
+		"tenantId": "74a52e8a-0553-4ac5-a501-0a1794c17940"
+	}
+}
