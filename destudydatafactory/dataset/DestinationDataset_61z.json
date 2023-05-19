@@ -2,7 +2,7 @@
 	"name": "DestinationDataset_61z",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "connFromAzToAz",
+			"referenceName": "LinkService4AZDBByKeyvault",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],

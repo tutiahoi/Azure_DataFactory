@@ -2,7 +2,7 @@
 	"name": "SourceDataset_61z",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "connFromAzToAz",
+			"referenceName": "LinkService4AZDBByKeyvault",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
@@ -17,7 +17,11 @@
 				"type": "float",
 				"precision": 15
 			}
-		]
+		],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "OrderTbl"
+		}
 	},
 	"type": "Microsoft.DataFactory/factories/datasets"
 }
