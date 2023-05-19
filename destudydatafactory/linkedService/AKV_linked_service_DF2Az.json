@@ -1,0 +1,10 @@
+{
+	"name": "AKV_linked_service_DF2Az",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://KeyVault4DF.vault.azure.net/"
+		}
+	}
+}
